@@ -1,0 +1,453 @@
+Designer(s):					       Link to project
+Ivanna C
+574B9817-DD63-47F8-B6FE-791970FD67E9.mov 
+
+Project Title: (35 character maxProject Picture:
+My mindful planner
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+My Mindful Planner helps users stay present, focused, and organized in their daily lives. Designed to improve productivity, self-awareness, and emotional well-being, it combines customizable planning tools, daily reflection prompts, mood tracking, and guided mindfulness exercises. One user shared that using the planner for just a week helped reduce stress and build healthier habits. While creating a balance between simplicity and rich features was a challenge, the final design offers a clean, user-friendly interface that works across all devices. The planner allows for personalized goal-setting, habit tracking, and theme customization, making it truly adaptable to each user's lifestyle. Powered in part by AI, it provides smart suggestions, motivational prompts, and insights based on user activity, creating a more tailored experience. Your journey to intentional, mindful living starts here—plan your days with purpose and clarity.
+
+
+
+Designer(s):					       Link to project
+Vincent D
+
+
+
+Project Title: (35 character max)
+Model of a Lancia 
+
+Project Picture:
+
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+This is my model interpretation of a model toy car of a 1980 Lancia Delta. My goal for this project was to make my toy car have functional lights by using a raspberry pi zero to program them to do commands such as turn them on or off, or stay on for a certain time period. I have been able to successfully connect the led lights to my raspberry pi as well as my batteries with no prior knowledge, as well as being able to code this specific type of code. A challenge that i faced was that i wasn't able to finish it on time due to the fact that I had some issues with exporting the code onto a hard drive and then to the raspberry pi itself. My AI partner in this unit was ChatGPT4000. I used it for guidance on how to construct a step by step tutorial as well as helping me with writing the code. 
+
+
+
+Designer(s):					       Link to project
+Emily Y
+ C3 Presentation Video.mp4 
+
+Project Title: (35 character max)
+Heirloom
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+Have you ever had the perfect jewelry piece in mind but no idea where to look? Imagine a website where you can design your dream jewelry and instantly find similar styles to buy—sounds amazing, right? I created a sleek, stylish platform that looks exactly how I envisioned, and that was a huge success! The challenge? Making it fully functional—I couldn’t quite crack the code to get it working. With the help of AI for brainstorming, coding, and troubleshooting, I got close, and this project proves the idea has real potential. With the right tools, this could be the future of jewelry shopping—who wouldn’t want a personal jewelry finder at their fingertips?
+
+
+
+
+Designer(s):					       Link to project
+Jekab F
+Enjoy!
+
+
+
+Project Title: (35 character max)
+MindMaze
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+In this interactive game, players make daily habit choices that impact their focus level, learning time management and concentration skills. A dynamic focus bar adjusts based on decisions, making learning fun. Balancing difficulty was a challenge, but I helped refine mechanics. Can you stay focused? Play now and find out! 🚀 
+
+
+
+
+Designer(s):					       Link to project
+Daniels
+https://drive.google.com/file/d/1kv-wnIqVLINEOxYhww6r1FsIF6pxoVNy/view?usp=sharing
+
+
+
+Project Title: (35 character max)
+GYM BYTE 
+
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+GymByte is an AI-powered fitness assistant designed to help users stay motivated and consistent with their workouts. I learned how to integrate AI for personalized workout and diet plans. A major success was successfully launching the app without errors. A challenge was figuring out UI issues across different devices. AI helped refine coding errors and optimize features. GymByte is the ultimate gym companion to track progress, set goals, and stay on top of your fitness journey!
+
+
+
+
+Designer(s):					       Link to project
+Simona G
+LinguaLeap video
+LinguaLeap app
+
+Project Title: (35 character max)
+LinguaLeap
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+LinguaLeap is a user-friendly web app designed to help users learn and translate languages ​​effortlessly. It supports a wide range of world languages ​​and offers instant translations, interactive lessons, and fun quizzes to reinforce your knowledge. LinguaLeap also recommends specially selected movies and books based on your language level to help you naturally immerse yourself in the language. With a clean design and easy navigation, users can practice grammar, expand their vocabulary, and enjoy personalized learning. Whether you’re a beginner or an advanced learner, LinguaLeap makes language learning fun, enjoyable, and effective.
+
+
+
+
+Mark G
+Video
+
+Designer(s):					       Link to projectProject Title: (35 character max)
+Ultimate IR Remote Hub
+
+Project Picture:
+
+
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+This project turns a Raspberry Pi into a smart IR remote that learns, stores, and sends infrared signals. An OLED display shows real-time commands and device info. I learned about IR communication, GPIO control, and I2C displays. A success was connecting all the parts—IR transmitter, receiver, aluminum case, and OLED display. A challenge was learning and identifying each pin. AI helped with planning and debugging. Control everything with one remote—simple, sleek, and powerful.
+
+
+
+
+
+Designer(s):					       Link to project
+Vilte G
+https://replit.com/join/zjwknpquxl-vgirutyte28
+
+Project Title: (35 character max)
+Pokemon ranking system
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+This Pokemon ranking system is an interactive game, where players can compare Pokemon characters based on their stats, abilities and power scores. The game will give a chance for players to find out more about their favorite Pokemon characters, see how they rank and find out which Pokemon character is the strongest. The goal is to help children understand how stats, like attack and defence affect battles between the characters. One success is that players can quickly and easily compare different Pokemon characters in a fun, engaging way. A challenge that I faced was making sure that all of the data is accurate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designer(s):					       Link to project
+Ksenia K
+https://docs.google.com/forms/d/e/1FAIpQLScSwhm_2JF5_fUbRAGrsL56ybEgxl1S1LCf780aQZ1oNFTUjQ/viewform?usp=dialog
+
+Project Title: (35 character max)
+Digital Wellness survey
+
+Project Picture
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+My goal is to create a test for high school students about general use AI, and it needs to show the result for each user, and show the statistics based on scores and answers. In my opinion, I reach the goal to create the survey that is following the main topic. Unfortunately, my AI partner crushed my progress because of the wrong information, so it was impossible to add the scores in. 
+
+
+
+
+
+Designer(s):					       Link to project
+Vera K
+ReARange
+
+Project Title: (35 character max)
+ReARange 
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+ReARange, the future of interior design. Rearrange your room from the comfort of your couch.  Made to explore healthy and ethical ways to use AI. As a very beginner level coder I am really proud of my work, yet it was challenging to effectively communicate with the AI. 
+
+
+
+
+Designer(s):					       Link to project
+Alejandro M & Valts K
+Maintenance report form Bits and Bytes	
+Maintenance report video tutorial and description
+
+Project Title: (35 character max)
+Maintenance report form
+
+Project Picture:
+
+ 
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+This project is a web based maintenance reporting system designed to streamline issue tracking and resolution. It features a responsive form that allows users to select categories, specify locations, describe issues, set urgency levels, and upload images. Implementing smooth file uploads while maintaining performance was challenging, but the result is a user-friendly and efficient platform.
+
+
+
+
+Designers:					       Link to project
+Anna P & Sofie S
+Bathroom Availability Website
+
+Project Title: 
+Bathroom Availability Website 
+
+
+Project Picture:
+
+
+Brief Project Description:
+The Bathroom Availability Website will help ISL staff and teachers find free bathrooms in real time by coded sensors in the door. It resolves bathroom issues with a live school map and a solar-powered system. AI assisted in coding and problem-solving. No app needed to install, just open the website and check availability right away.
+
+
+
+
+
+Designer(s):					       Link to project
+Henri R
+Digital wellness page
+
+Project Title: (35 character max)
+Digital wellness page
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+Explore, learn, and have fun while enhancing your comprehension of digital wellness with our interactive quizzes, games, and AI resources! This page was made in the aim to help students improve their knowledge of digital wellbeing concerning AI while having fun through interactive elements featured on the webpage. One success I had during the creation of this page was the fact that I was able to have a complete product at the end of this unit. A challenge I had was definitely having everything working at once. Everytime time I fixed a piece of code a new error appeared. Eventually with determination I managed to arrive with a great web page that I am proud of. This webpage was created with the assistance of AI.
+
+
+
+
+
+
+
+
+Designer(s):					       Link to project
+Wassim S
+Visit my website here
+
+Project Title: (35 character max)
+PassWorld
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+During the work of my project, “Our goal for this yearly event in our school is to learn how to effectively collaborate with generative AI and learn and share new skills with computer programming.” Thus, one success accumulated in this project was getting all the requirements and objectives I wanted from C1 (plan of development) in my code. Challenges include getting the AI to follow instructions precisely as intended, while still accommodating errors. Despite that, the collaboration with AI was, in fact, so effective that I was able to complete the plan statement I had stated before and successfully fulfill the requirements. By viewing the link above, you can see the ingenious results AI can achieve with simple prompts. With a touch of one’s creativity, AI enables the creation of a website with minimal effort in just a handful of steps. 
+
+
+Designer(s):					       Link to project
+Irina S
+Here is the link
+
+Project Title: (35 character max)
+AceIt: An online Study and Event Planner
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+AceIt is your ultimate study companion, designed to keep you organized and on top of deadlines! Built for the Bits and Bytes event, it showcases AI potential in daily life. A key success of this project was a functional calendar, with extra study reminders. As well as the quiet advanced color customization system. Some of the challenges include the lack of a functional AI feature, and no integration or syncing with outside calendars such as Managebac or Google classroom. During the creation of this website AI was used a lot to assist in the creations and coding aspect. The specific AI’s that were used were the Replit AI, and Chatgpt. Despite any limitations, it's a sleek, and functional calendar, that effectively demonstrates the power of AI to enhance productivity and organization. 
+
+
+
+
+Designer(s):					       Link to project
+Anna T
+Link
+
+Project Title: (35 character max)
+Study Buddy
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+Study Buddy is a student productivity  website designed to help users stay organized and manage their workload. It features a task manager and a calendar so students can plan and track their assignments easily. One success was getting the task system to work smoothly. A challenge was adding AI features like a quiz generator, which I had to leave out due to API limitations. I used Replit’s AI tools to help with coding, fixing bugs, and understanding complex parts. Study buddy is simple, effective, and perfect for students who want to stay on top of their work.
+
+
+
+Designer(s):					       Link to project
+Karola T
+TravelNotes
+
+Project Title: (35 character max)
+TravelNotes
+
+Project Picture:
+  
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+TravelNotes is your ultimate travel journal—write, share, and upload photos from anywhere in the world! We used AI to bring it to life and learned a lot about coding. The notes feature works great, and I'm still improving the map. It’s fun, personal, and perfect for every traveler! 
+
+
+
+Designer(s):					       Link to project
+Masha vJ
+https://task-master-calendar-mjakovleff.replit.app/ 
+https://drive.google.com/file/d/1tMd1JxeznVFT2wKVyLiUwLOkJO-5Y6Xt/view?usp=sharing 
+
+Project Title: (35 character max)
+Study tracker
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+The Study Tracker website helps students stay on top of homework and study smarter. You can take a quick quiz, get learning links, and see all your tasks on a calendar. One success is the timer that keeps you on track. It was tricky to create AI-powered quizzes. This website was made with AI to help you learn better!
+
+
+
+Designer(s):					       Link to project
+Matiss Gaspazins
+
+Video
+
+Project Title: (35 character max)
+MiniMoney. Best finance educational app for kids.
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+MiniMoney is a fun, educational finance app for kids and teens to build smart money habits. It teaches budgeting, saving, and spending through interactive tools. A key success was creating an engaging design, while a challenge was balancing simplicity with depth. AI enhances learning. MiniMoney makes financial education exciting! Unfortunately, one without an external python app will not be able to see how this app works.
+
+
+
+Designer(s):					       Link to project
+Colton L
+VIDEO
+
+Project Title: (35 character max)
+Model Cessna Skylane 187
+
+Project Picture:
+
+
+Brief Project Description:
+4-5 sentences (50 words max)
+Learning objective
+One success
+One challenge
+AI Disclosure statement
+Sell it!!
+I have started to create a model RC 187 Cessna Skylane. I have done some of the code using an external monitor, keyboard and a Raspberry Pi Zero. It's not finished, but I still was able to learn so much about the coding world. I had many struggles such as logging into the raspberry pi, obtaining all of the materials, building the plane's body, etc. But I persevered and kept going. I used ChatGPT Throughout the unit for advice, improvements, and help in general!
+
+
+

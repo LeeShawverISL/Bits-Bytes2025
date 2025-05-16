@@ -1,0 +1,131 @@
+8.1
+Designer(s):
+Kostas K & Evan S
+
+Game Name:	Game Link:
+Biba and Boba
+https://scratch.mit.edu/projects/1145325257 
+
+Brief Game Description:
+In this game players will have the opportunity to choose between 2 games. In the first game players will go on a space adventure with Sonic who will ask questions about shapes when he jumps on the shapes and the objective is to get all questions correct. Second game will give players the ability to fight their laziness by not listening to it and solve problems that will damage it. Let’s fight your laziness and go on an adventure with your friend Sonic!
+
+
+
+Designer(s):
+Sofija K
+
+Game Name:	Game Link:
+Shape guessing game 
+https://scratch.mit.edu/projects/1128531344/
+
+Brief Game Description:
+The purpose of the game is for people to learn shapes and improve their knowledge in shape understanding. At first players will have to guess the exact shape from all of the other ones, then they move on to the next level, afterwards they will answer questions like: What shape is this? And then they would have to find one shape from all of the others, like the first task, but a bit challenging. One success is that I like how the game is looking so far, like the levels, questions and so on. One challenge was to save my game all the time, and also I was challenged with choosing the correct code. 
+
+
+Designer(s):
+Anton S
+
+Game Name:	Game Link:
+Balloon blast 
+https://scratch.mit.edu/projects/1132798165 
+
+Brief Game Description:
+This is a fun and fast math game that helps you get better at quick addition You’ll see balloons floating up with different numbers and only one of them is the right answer to the question You have to spot it and click it before it reaches the top If you miss it or click the wrong one you lose a life It’s a great way to practice math while keeping things exciting and active.]
+
+
+
+
+Designer(s):
+Jēkabs L
+
+Game Name:	Game Link:
+UFO Destroyer
+https://scratch.mit.edu/projects/1121158117/ 
+
+Brief Game Description:
+My learning objective is to make a fun and creative game that educates children about shapes and addition. The Player’s objective is to get as much points before they loose all 3 lives. You can get points by shooting down the UFOs. If you shoot down the UFO that the game tells you to shoot, you get 10 points and a math question. If you get the math question correct, you get an additional 10 points and if you dont get it right you get no additional points. The one things that was successful was that I made a working game but one challenge was that I had hard time understanding the blocks and codes because this was the first time I had made a scratch game.
+
+
+
+Designer(s):
+Juliana C & Vika H
+
+Game Name:	Game Link:
+Magic Shapes
+https://scratch.mit.edu/projects/1149926733 
+
+
+
+Brief Game Description:
+The learning objective of the game is to learn shapes and how they are different from each other. The player's goal is to earn coins by getting right answers, you can buy accessories and food for your pet by spending your budget . What is really interesting is that it is so easy to understand the rules of the game, however it is changing to get every single answer right. By setting a challenge to yourself you will learn faster and the process will be more interesting for yourself.
+
+
+
+
+Designer(s):
+Mariabella V & Varya K
+
+Game Name:	Game Link:
+Falling shapes
+https://scratch.mit.edu/projects/1130626077/
+
+Brief Game Description:
+The learning objective is for 2nd graders to learn about the knowledge of shapes. The player’s goal in the game is to catch 100  falling shapes and answer questions correctly. One success throughout the process of coding was making the questions for the 2nd graders to answer, either correctly or incorrectly. And one challenge that we had was making the shapes fall at the right speed, so you can catch the shapes on time. 
+
+
+
+
+Designer(s):
+Alex G
+
+Game Name:	Game Link:
+Alien invasion 
+https://scratch.mit.edu/projects/1132276275 
+
+Brief Game Description:
+
+
+
+
+
+
+Designer(s):
+Daniel B & Ged R
+
+Game Name:	Game Link:
+Kingdom royal
+https://scratch.mit.edu/projects/1132284848/ 
+
+Brief Game Description:
+
+We are trying to teach the 4th graders about multiplication, division and fractions because that's what they are learning in 4th grade and what we learned. The objective of the game is to start on your journey as a knight saving a kingdom from a strong boss, on the way you will encounter many mini-bosses and engage in math combat until eventually, you defeat the boss. A success that we had was being able to make an above average scratch game having no knowledge. A challenge we had was collaborating and splitting our work evenly. 
+
+
+
+
+Designer(s):
+Marii L
+
+Game Name:	Game Link:
+Strawberry mix
+https://scratch.mit.edu/projects/1121547357 
+
+Brief Game Description:
+The point of the game is to improve on their decision making and attention skills by deciding between good and bad strawberries. The Player's objective is to catch all the good strawberries and try to avoid the spoiled ones. One thing that went well while making this game was 
+
+
+
+
+Designer(s):
+Liza Y & Darina K
+
+Game Name:	Game Link:
+Witch game
+https://scratch.mit.edu/projects/1132279202/
+
+
+
+Brief Game Description:
+Our goal for the player is to play a fun and interesting game, but still learn math from it. The topic for learning that we choose is math, specifically multiplying,dividing, adding, and subtracting. One success that we have in the game is that the art of our game is really beautiful and kids will be interested because the colors are bright and outstanding and the art is really magical. One challenge that we had in the start is to start writing a code and just even understand the code for the game. But then we solved this challenge by searching for help through chat gpt, we gave him a description of what action we need in our game and then he gave us a code, and if we didn’t love we could make it better ourselves.
+
+

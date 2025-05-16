@@ -1,0 +1,108 @@
+8.2
+Designer(s):
+Alihan S & Adam
+
+Game Name:	Game Link:
+Learning Rivals
+https://scratch.mit.edu/projects/1120948421/ 
+
+Brief Game Description:
+This is a one on one football game where the first to score 5 goals wins. For your goal to count, you must answer a math question that is timed. The learning objective is to get faster and better at math, specifically multiplying and dividing with big numbers. As we were making the game, we were proud of making the actual football gameplay. One challenge was adding the questions (education element) to the game.
+
+
+
+Designer(s):
+Liev W & Stan T
+
+Game Name:	Game Link:
+catquest
+https://scratch.mit.edu/projects/1127464391/
+
+
+
+Brief Game Description:
+Play as a cat going through a castle quest where there are obstacles and math questions guarding the next level. Complete 3 levels ranging from easy to hard escape the scary castle to get back outside and to pursue your career as a mathematician.
+
+
+
+
+Designer(s):
+Karlina D & Kira D
+
+Game Name:	Game Link:
+Rescue Joey the Beanbag
+https://scratch.mit.edu/projects/1132330502 
+
+Brief Game Description:
+
+The 5th graders mascot Joey the Beanbag needs your help! Use your multiplication skills to answer questions and get through levels to reach Joey. A success we had making this game was designing the gameplay from an artistic standpoint. A challenge we had was understanding what code we need to use and how to use it. 
+
+
+
+Designer(s):
+Anya G & Nika K :)
+
+Game Name:	Game Link:
+Magic Joey
+https://scratch.mit.edu/projects/1132330691/
+
+Brief Game Description:
+The objective of this Magic Joey game is to gain knowledge and improve in 5th grade math class. Your goal is to overcome the monster by shooting at him, but nothing is easy. You need to answer mathematical questions to stay alive. A success achieved during the game production was trying numerous codes to find the correct one, we used skills like problem solving when things went wrong. A challenge we faced was making sure the codes did not overlap, so the game functioned properly. Join and play this adventurous game to experience fun and exciting ways to learn maths.
+
+
+
+
+Designer(s):
+Roman S
+
+Game Name:	Game Link:
+Goblin World
+https://scratch.mit.edu/projects/1132328078/ 
+
+Brief Game Description:
+Goblin World lets you defeat goblins, and train your brain! You will have the freedom of choice when choosing your character, we have 2 options, Nano a boy, and Giga a girl. Every time you defeat a goblin you get a question, and your answer is what decides if you can move on, or not! Now you might think that this is easy, you won’t just have to answer questions and swing your sword, you will have to use your intuition and logic, on the last level. Of course as in any good game, there is a prize at the end!
+
+
+
+
+Designer(s):
+Keira Simms
+
+Game Name:	Game Link:
+How to Defeat Jerry the Destroyer
+https://scratch.mit.edu/projects/1126030368/ 
+
+Brief Game Description:
+The aim of this game is to increase English learning skills at a fourth grade level. The player has to go on a quest in order to retrieve an ancient artifact that has been stolen by the extremely powerful monster. The world trembles to hear his name as his title is not undeserved. He is Jerry the Destroyer. The player will go through the game using their English skills and answer questions that get increasingly harder, defeating Jerry’s minions and then the ultimate test of their skills against Jerry himself. One success I had with this game was making all of the character (sprite) art and designing monsters that if rendered differently could have been scary but are almost charming in a way to keep it from being too scary. One challenge I faced was getting the appropriate background to change and which characters were supposed to be shown at the time during the game. 
+
+
+
+
+
+
+
+
+Designer(s):
+Alizé M
+
+Game Name:	Game Link:
+The Kidnapper’s Castle 
+https://scratch.mit.edu/projects/1129110496/ 
+
+Brief Game Description:
+In my game grade 4 students will be challenged using their english and spelling skills. The student’s objective in the game will be to save their sibling from the evil monster, to do this they will have to go through various levels getting harder and harder as it goes. To move on from one level to the next they will have defeated the monster at that level with arrows, arrows that they will get from answering questions. One of the challenges of my game is that if the student gets a question wrong they will have to start all over again. My hope is that while teaching them English it will also teach them perseverance and that they will try again until they can defeat the final monster and save their sibling.
+
+
+
+
+Designer(s):
+Noah I & Elias K
+
+Game Name:	Game Link:
+To Kill a Gertude
+https://scratch.mit.edu/projects/1127454056/ 
+
+       Brief Game Description:
+In “To Kill A Gertrude”, players will have to kill the main villain of the game, Gertrude, by answering english questions to defeat Gertrude and their minions. Our hope is that the students will be able to learn english skills while having fun and defeating Gertrude. It is a fun game where players must defeat enemies to advance and defeat Gertrude while exploring a castle. One success we had while coding this is the music of the game, which was hand-made by the creators. One challenge we had was making sure our questions matched their answers. It is a fun game where players must defeat enemies to advance and defeat Gertrude while exploring a castle. 
+
+
